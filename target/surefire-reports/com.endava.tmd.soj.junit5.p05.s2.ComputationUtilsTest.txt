@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.endava.tmd.soj.junit5.p05.s2.ComputationUtilsTest
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.02 s - in com.endava.tmd.soj.junit5.p05.s2.ComputationUtilsTest
